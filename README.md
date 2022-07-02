@@ -3,4 +3,7 @@ Primeiro esboço do que será um projeto revolucionário, tanto para a vida dos 
 
 
 Repositório criado em função de uma idéia.
+
+
+Abaixo seguirão os comandos!
  
